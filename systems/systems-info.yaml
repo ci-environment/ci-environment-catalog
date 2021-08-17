@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: Moonlight
+  description: Fullcycle Tool
+  tags:
+    - tool
+    - ci
+    - cd
+    - cli
+spec:
+  owner: squad-faustao
+  domain: Atlantis
